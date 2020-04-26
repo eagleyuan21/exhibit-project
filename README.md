@@ -12,6 +12,6 @@ A picture of the exhibit:
 
 <img src=exhibit-image.jpg width="420">
 
-The exhibit has a motor and track located on the top of the exhibit that show progression, three buttons to play with the exhibit, and an ultrasonic sensor that acts as both a trigger to start and a restart for the exhibit.
+The exhibit has a motor and track located on the top of the exhibit that show progression, three buttons to play with the exhibit, and an ultrasonic sensor that acts as both a trigger to start and a restart for the exhibit. A specific image of the hardware can be found in "exhibit-image.jpg".
 
 "exhibit.m" is the Matlab file for the exhibit. Anywhere in the code with a ".jpg" file is where an image is projected onto the screen relevant to the story line of the exhibit.
